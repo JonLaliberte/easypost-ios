@@ -1,8 +1,8 @@
 easypost-ios
 ============
 
-Simple implementation of the EasyPost API for iOS. Generate postage easily.
-
+Simple implementation of the EasyPost API for OS X using Objective-C. Generate postage easily.
+Forked from easypost-ios by Ruben Nieves
 
 
 Install
